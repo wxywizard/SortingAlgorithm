@@ -1,6 +1,6 @@
 package com.wxywizard.exercise.algorithm;
 
-public class Selectsort {
+public class SelectSort {
 
     /**
      * 时间复杂度O(n^2)
